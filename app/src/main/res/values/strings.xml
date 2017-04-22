@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapsTest</string>
+    <string name="click_me">Click Me</string>
+    <string name="current_pos">Your location</string>
+    <string name="first_fragment">First string</string>
+    <string name="second_fragment">Second fragment</string>
+</resources>
